@@ -61,7 +61,7 @@ return (
        </h5>
        </h4>
        
-
+  <img src="https://static.pr.ricmais.com.br/ricmaispr/uploads/2020/01/meme-gretchen.jpg" alt="logo" style={{width:400, opacity: 0.9}}/>
 
 
        <h3 style={mystyle2}>Módulo Intermediário</h3>
@@ -89,6 +89,9 @@ return (
        </h6>
        </h5>
        </h4>
+
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRXvxk7FgOi-8NBWtPTlQUwoRlBbmnkuzCn8YvFLoVH0CXZJumO&usqp=CAU" alt="logo" style={{width:400, opacity: 0.9}}/>
+
 
       </div>
 
